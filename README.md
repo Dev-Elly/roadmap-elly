@@ -1,8 +1,8 @@
 # Basic html only website
   This is an interractive website with navigation bars that link a page to several pages and uses only html
 
-Below is the link to the website
-[link](https://dev-elly.github.io/roadmap-elly/)
+You can view the live project here
+[https://dev-elly.github.io/roadmap-elly/](https://dev-elly.github.io/roadmap-elly/)
 
 ## Technologies
 1. HTML5
